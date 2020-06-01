@@ -1,3 +1,5 @@
+![header image](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/EquipoMapas-06.png)
+
 
 Proyecto realizado por:
   [Anna Sofia Frattini](https://www.behance.net/Asfrattini), [Andrés González](https://www.behance.net/andresf3go), Camilo Ayala, [David Diaz](https://www.behance.net/daviddiazd), [Juan Camilo Moreno](https://www.behance.net/jcmore12), [Lorena Rivera](https://www.behance.net/lriverar6700) y [Thomas Guana](https://www.behance.net/thomasguana). 
