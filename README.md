@@ -5,7 +5,9 @@ Proyecto realizado por:
   [Anna Sofia Frattini](https://www.behance.net/Asfrattini), [Andrés González](https://www.behance.net/andresf3go), [Camilo Ayala](http://www.camiloayala.com), [David Diaz](https://www.behance.net/daviddiazd), [Juan Camilo Moreno](https://www.behance.net/jcmore12), [Lorena Rivera](https://www.behance.net/lriverar6700) y [Thomas Guana](https://www.behance.net/thomasguana). 
 
 
-Aca va una pequena explicacion edl proyecto
+Como equipo de estudiantes de diseño de la Universidad de Los Andes queremos ayudar al gobierno y a los ciudadanos a comprender mejor la situación a la que nos estamos enfrentando a través de la ayuda de visualización de datos través de mapas.
+
+Deseamos principalmente divulgar el conocimiento sobre la Covid-19 y el impacto que esta ha tenido sobre el país, ya que consideramos de gran importancia que las personas estén bien informadas sobre esta crisis y cómo nosotros, como individuos poseedores de la información, podemos ayudar a que esta le llegue a un público más amplio.
 
 <h3>Objetivos del proyecto:</h3>
 
