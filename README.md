@@ -29,5 +29,5 @@ Estos mapas a su vez fueron utilizados para realizar los siguientes documentos d
 
 ![metro](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapaMedellin-Finales-01.png)
 
-Estos mapas sirvieron luego para realizar la diagramación de una linea de tiempo que comparaba los ingresos totales vs los ingresos en hora pico en un lapso de tiempo de aproximadamente 1 mes, con el fin de integrarlo a un documento de recomendaciones al sistema transmilenio.
+Estos mapas sirvieron luego para realizar la diagramación de una linea de tiempo que comparaba los ingresos totales vs los ingresos en hora pico en un lapso de tiempo de aproximadamente 1 mes, con el fin de integrarlo a un [documento de recomendaciones](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/DocumentoRecomendaciones-C.pdf)  al sistema transmilenio.
 
