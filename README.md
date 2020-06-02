@@ -21,7 +21,9 @@ Deseamos principalmente divulgar el conocimiento sobre la Covid-19 y el impacto 
 
 <h4>TRANSPORTE</h4>
 
-El trabajo del equipo comenzó rediseñando unos mapas realizados por el arquitecto José David Pinzón en la herramienta ARQ-GIS, lo que se buscaba con esta contrapropuesta de diagramación era generar piezas gráficas que permitieran visualizar la disminución de ingresos a los sistemas de transmilenio y de metro, en las ciudades de Bogotá y Medellín respectivamente. 
+El trabajo del equipo comenzó rediseñando unos mapas realizados por el arquitecto José David Pinzón en la herramienta ARQ-GIS, lo que se buscaba con esta contrapropuesta de diagramación era generar piezas gráficas que permitieran visualizar la disminución de ingresos a los sistemas de transmilenio y de metro, en las ciudades de Bogotá y Medellín respectivamente. Este trabajo se hizo en conjunto con la Universidad de los Andes, la Universidad Nacional, el Instituto Nacional de Salud, el Imperial College de Londres y nuestro equipo de trabajo, LADD.
+
+Los datos para estos mapas fueron proporcionados por Transmilenio y el Sistema Metro de Medellín.
 
 Estos mapas a su vez fueron utilizados para realizar los siguientes documentos de recomendaciones para cambios en el sistema de transporte. Para [Bogotá](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/Bogota%CC%81Disminucio%CC%81n.pdf) y [Medellín](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/Medelli%CC%81nDisminucio%CC%81n.pdf).
 
@@ -29,20 +31,20 @@ Estos mapas a su vez fueron utilizados para realizar los siguientes documentos d
 
 ![metro](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapaMedellin-Finales-01.png)
 
-Estos mapas sirvieron luego para realizar la diagramación de una linea de tiempo que comparaba los ingresos totales vs los ingresos en hora pico en un lapso de tiempo de aproximadamente 1 mes, con el fin de integrarlo a un [documento de recomendaciones](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/DocumentoRecomendaciones-C.pdf)  al sistema transmilenio.
+Estos mapas sirvieron luego para realizar la diagramación de una linea de tiempo que comparaba los ingresos totales vs los ingresos en hora pico en un lapso de tiempo de aproximadamente 1 mes, con el fin de integrarlo a un [documento de recomendaciones](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/DocumentoRecomendaciones-C.pdf)  al sistema transmilenio. Este documento se realizó con el apoyo de la Universidad de los Andes, la Universidad Nacional, la Gobernación de Antioquia, el Imperial College en Londres, el INS, la alianza New Urban Mobility y finalmente nuestro equipo de trabajo, LADD.
 
 <h4>REDES HOSPITALARIAS</h4>
 
 Tras completar los mapas iniciales de transporte, nos dispusimos a trabajar con información acerca del sistema hospitalario de la ciudad de Bogotá, buscando visualizar inicialmente la posición de los centros médicos públicos y privados comparados con la ubicación de colegios y universidades. Con esta información realizamos un mapa interactivo en la herramienta Carto, que permitía visualizar algunos filtros (Estratos socioeconómicos, uso del suelo y densidad poblacional) con el fin de generar una visualización mucho mas completa.
-Este [mapa interactivo fue publicado en la página de la Universidad de los Andes](https://uniandes.edu.co/es/noticias/salud-y-medicina/cual-es-la-capacidad-hospitalaria-de-bogota-frente-a-la-covid19) 
+Este [mapa interactivo fue publicado en la página de la Universidad de los Andes](https://uniandes.edu.co/es/noticias/salud-y-medicina/cual-es-la-capacidad-hospitalaria-de-bogota-frente-a-la-covid19) y fue parte de un reporte realizado entre la Universidad de los Andes, la Universidad Pontificia Javeriana Seccional de Cali y el grupo de trabajo LADD.
 
 ![mapaInteractivo](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/RedHospitalaria.PNG)
 
-Además del mapa interactivo, se realizaron tres mapas estáticos que mostraban las subredes hospitalarias en Bogotá y permitían ubicar geográficamente los centros hospitalarios, tanto públicos como privados. Dichos mapas fueron luego utilizados para realizar un [informe de recomendaciones para el sistema hospitalario.](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/ReporteSISTEMA.pdf)
+Además del mapa interactivo, se realizaron tres mapas estáticos que mostraban las subredes hospitalarias en Bogotá y permitían ubicar geográficamente los centros hospitalarios, tanto públicos como privados. Dichos mapas fueron luego utilizados para realizar un [informe de recomendaciones para el sistema hospitalario](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/ReporteSISTEMA.pdf) de la mano de Nubia Velasco y Catalina González, ambas de la Universidad de los Andes, de las facultades de Administración y Medicina respectivamente.
 
 ![mapaEstatico](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapaIntegrado.jpeg)
 
-Finalmente realizamos dos mapas interactivos que muestran el avance histórico del virus en la ciudad de Bogotá y en Colombia como país. Ambos mapas permiten ubicar los casos que van apareciendo históricamente en cada localidad, dando la oportunidad de visualizar o no algunos filtros como la edad, el sexo, la localidad de residencia y la fecha de diagnóstico. 
+Finalmente realizamos dos mapas interactivos que muestran el avance histórico del virus en la ciudad de Bogotá y en Colombia como país. Ambos mapas permiten ubicar los casos que van apareciendo históricamente en cada localidad, dando la oportunidad de visualizar o no algunos filtros como la edad, el sexo, la localidad de residencia y la fecha de diagnóstico. Los datos utilizados en estos mapas fueron tomados de las [páginas libres que la alcaldía de Bogotá a dispuesto para uso público](http://saludata.saludcapital.gov.co/osb/index.php/datos-de-salud/enfermedades-trasmisibles/covid19/) y de las [páginas del INS que también tienen acceso libre a estas bases de datos](https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx).
 
 [<h5>Mapa Bogotá](https://aburbano.carto.com/builder/60036e31-77e1-4f9b-a7c1-217c61151fa8/embed)</h5>
 ![HistorialBogota](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/VideoBogota.gif)
