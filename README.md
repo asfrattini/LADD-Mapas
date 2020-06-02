@@ -43,4 +43,5 @@ Además del mapa interactivo, se realizaron tres mapas estáticos que mostraban 
 ![mapaEstatico](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapaIntegrado.jpeg)
 
 Finalmente realizamos dos mapas interactivos que muestran el avance histórico del virus en la ciudad de Bogotá y en Colombia como país. Ambos mapas permiten ubicar los casos que van apareciendo históricamente en cada localidad, dando la oportunidad de visualizar o no algunos filtros como la edad, el sexo, la localidad de residencia y la fecha de diagnóstico. 
-<h5>Mapa Medellín</5>
+
+[<h5>Mapa Bogotá</5>](https://aburbano.carto.com/builder/60036e31-77e1-4f9b-a7c1-217c61151fa8/embed)
