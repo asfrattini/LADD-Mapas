@@ -41,3 +41,5 @@ Este [mapa interactivo fue publicado en la página de la Universidad de los Ande
 Además del mapa interactivo, se realizaron tres mapas estáticos que mostraban las subredes hospitalarias en Bogotá y permitían ubicar geográficamente los centros hospitalarios, tanto públicos como privados. Dichos mapas fueron luego utilizados para realizar un [informe de recomendaciones para el sistema hospitalario.](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/ReporteSISTEMA.pdf)
 
 ![mapaEstatico](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapaIntegrado.jpeg)
+
+Finalmente realizamos dos mapas interactivos que muestran el avance histórico del virus en la ciudad de Bogotá y en Colombia como país. Este mapa permite 
