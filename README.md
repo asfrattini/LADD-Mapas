@@ -52,3 +52,9 @@ Finalmente realizamos dos mapas interactivos que muestran el avance histórico d
 ![HistorialBogota](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/Colombia.gif)
 
 <h3>Conclusiones:</h3>
+
+- Los mapas son una herramienta que ayuda a visualizar diferentes datos relacionados al Covid-19 y a nuestro país de una forma más comprensible para el lector.
+
+- El proceso de aprendizaje con Carto fue progresivo y todo durante este proyecto, pero fue esta herramienta la que nos permitió desarrollar los mapas con mayor facilidad. Es una herramienta versátil, que se puede aprender con facilidad y que recomendamos que aprendan.
+
+- Desde nuestros conocimientos pudimos aportar y colaborar a otras investigaciones o trabajos que se estaban realizando, al desarrollar estos mapas que complementaban y ayudaban a visualizar la información de diferentes temas e investigaciones.
