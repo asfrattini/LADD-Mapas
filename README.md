@@ -50,3 +50,5 @@ Finalmente realizamos dos mapas interactivos que muestran el avance histórico d
 
 [<h5>Mapa Colombia](https://aburbano.carto.com/builder/4845f271-b480-49cb-bcc1-c01d25e11000/embed)</h5>
 ![HistorialBogota](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/Colombia.gif)
+
+<h3>Conclusiones:</h3>
