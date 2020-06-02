@@ -31,3 +31,9 @@ Estos mapas a su vez fueron utilizados para realizar los siguientes documentos d
 
 Estos mapas sirvieron luego para realizar la diagramación de una linea de tiempo que comparaba los ingresos totales vs los ingresos en hora pico en un lapso de tiempo de aproximadamente 1 mes, con el fin de integrarlo a un [documento de recomendaciones](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/DocumentoRecomendaciones-C.pdf)  al sistema transmilenio.
 
+<h4>REDES HOSPITALARIAS</h4>
+
+Tras completar los mapas iniciales de transporte, nos dispusimos a trabajar con información acerca del sistema hospitalario de la ciudad de Bogotá, buscando visualizar inicialmente la posición de los centros médicos públicos y privados comparados con la ubicación de colegios y universidades. Con esta información realizamos un mapa interactivo en la herramienta Carto, que permitía visualizar algunos filtros (Estratos socioeconómicos, uso del suelo y densidad poblacional) con el fin de generar una visualización mucho mas completa.
+Este [mapa interactivo fue publicado en la página de la Universidad de los Andes](https://uniandes.edu.co/es/noticias/salud-y-medicina/cual-es-la-capacidad-hospitalaria-de-bogota-frente-a-la-covid19) 
+
+![mapaInteractivo](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/RedHospitalaria.PNG)
