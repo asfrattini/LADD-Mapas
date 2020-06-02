@@ -16,3 +16,11 @@ Deseamos principalmente divulgar el conocimiento sobre la Covid-19 y el impacto 
 - Buscabamos complementar la información de estudios sobre diferentes situaciones, por lo que trabajamos al rededor de temas como transporte, instituciones hospitalarias, disponibilidad de camas, instituciones educativas, entre otros, tanto en Bogotá como en otras ciudades del país.
 
 - Finalmente, pasamos a visualizar los datos a través de información geográfica de diferentes situaciones alrededor de la emergencia del COVID-19, para ayudar a comprender, reflexionar e incluso tomar decisiones alrededor de cada tema.
+
+<h3>Piezas realizadas:</h3>
+
+<h4>TRANSPORTE</h4>
+
+El trabajo del equipo comenzó rediseñando unos mapas realizados por el arquitecto José David Pinzón en la herramienta ARC-GIS, lo que se buscaba con esta contrapropuesta de diagramación era generar piezas gráficas que permitieran visualizar la disminución de ingresos a los sistemas de transmilenio y de metro, en las ciudades de Bogotá y Medellín respectivamente. 
+
+![transmi](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/Mapas-Finales-02.png)
