@@ -25,5 +25,5 @@ El trabajo del equipo comenzó rediseñando unos mapas realizados por el arquite
 
 ![transmi](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/Mapas-Finales-02.png)
 
-![metro](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapasFinales-COLORES-04.png)
+![metro](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapaMedellin-Finales-01.png)
 
