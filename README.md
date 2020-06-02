@@ -24,3 +24,6 @@ Deseamos principalmente divulgar el conocimiento sobre la Covid-19 y el impacto 
 El trabajo del equipo comenzó rediseñando unos mapas realizados por el arquitecto José David Pinzón en la herramienta ARC-GIS, lo que se buscaba con esta contrapropuesta de diagramación era generar piezas gráficas que permitieran visualizar la disminución de ingresos a los sistemas de transmilenio y de metro, en las ciudades de Bogotá y Medellín respectivamente. 
 
 ![transmi](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/Mapas-Finales-02.png)
+
+![metro](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapasFinales-COLORES-04.png)
+
