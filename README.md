@@ -37,3 +37,7 @@ Tras completar los mapas iniciales de transporte, nos dispusimos a trabajar con 
 Este [mapa interactivo fue publicado en la página de la Universidad de los Andes](https://uniandes.edu.co/es/noticias/salud-y-medicina/cual-es-la-capacidad-hospitalaria-de-bogota-frente-a-la-covid19) 
 
 ![mapaInteractivo](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/RedHospitalaria.PNG)
+
+Además del mapa interactivo, se realizaron tres mapas estáticos que mostraban las subredes hospitalarias en Bogotá y permitían ubicar geográficamente los centros hospitalarios, tanto públicos como privados. Dichos mapas fueron luego utilizados para realizar un [informe de recomendaciones para el sistema hospitalario.](https://github.com/asfrattini/LADD-Mapas/blob/master/Documentos/ReporteSISTEMA.pdf)
+
+![mapaEstatico](https://github.com/asfrattini/LADD-Mapas/blob/master/Imagenes/MapaIntegrado.jpeg)
